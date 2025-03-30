@@ -3,7 +3,7 @@
 This repository follows my learning journey through the **Web Scraping with Python** tutorial from [this YouTube video](https://youtu.be/mBoX_JCKZTE?si=MD4Nq17LfMeWRas9).  
 
 ## 📚 **Topics Covered**
-Below is a checklist of the concepts covered in the tutorial. ✅ marks **completed** sections, and ⏳ marks sections I still need to work on.
+Below is a checklist of the concepts that I have covered learning. ✅ marks **completed** sections, and ⏳ marks sections I still need to work on.
 
 ### **✅ Getting Started**
 - ✅ Introduction to Web Scraping  
