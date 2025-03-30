@@ -12,7 +12,7 @@ Below is a checklist of the concepts that I have covered learning. ✅ marks **c
 
 ### **✅ Basic Scraping Techniques**
 - ✅ Sending HTTP requests with `requests`  
-- ✅ Parsing HTML with `BeautifulSoup`  
+- ✅ Parsing HTML with `Scrapy`  
 - ✅ Extracting text and attributes from HTML elements  
 - ✅ Handling different HTML structures  
 
